@@ -1,4 +1,4 @@
-# nvim-config
+# 💤 LazyVim
 
-My personal neovim configuration based on LazyVim.
-Check out my [Youtube channel](https://youtube.com/@thehelloworldguyofficial).
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
